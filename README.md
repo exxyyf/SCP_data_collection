@@ -5,4 +5,5 @@ There are three pictures in the example: first picture - a paragon picture (pers
 
 As a result of processing, the difference between wrong and right poses compared to the paragon image was seen as difference between cosine and weighted distances between body joints points vectors. Thus, it is possible to implement data cleaning by assesing the pose of each image and comparing distances using distance threshold.
 
-![image](https://github.com/exxyyf/SCP_data_collection/assets/118925388/6a00c103-7c2a-4bae-b72f-34ed279042fb)
+![image](https://github.com/exxyyf/SCP_data_collection/assets/118925388/386812e5-b8aa-4750-b6e4-aa888577d52e)
+
