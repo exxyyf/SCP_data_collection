@@ -1,9 +1,6 @@
 ## Parsing of images for DL
 
 Here is one of the parsers I've created in order to scrape images of clothing from Bonprix.de web-site. These images were intended to train DL model for try-on of clothing. 
-The dataset can be found [here](https://disk.yandex.ru/d/PeBWMc8BU0uIAQ):
-
-
 
 Overall I succesfully performed the scrapping part of bonprix.de web-page (including dresses), then manually cleaned the data by removing images with back pose and fragmented products based on their order on web-site (from 6903 lower body images only 3644 were left, from 17244 upper body images only 8669 were left, from 9542 dresses 4794 images were left).
 
